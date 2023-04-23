@@ -1,0 +1,234 @@
+
+html{
+  height: 100%;
+  width: 100%;
+    
+}
+.container{
+    max-width: 800px;
+    margin-left: auto;
+    margin-right:auto;
+   
+   
+
+ }
+ .container-all{
+  background-color: #ffca42;
+ }
+ .header {
+  background-color: #1b3764;
+ 
+}
+ .container-wrapper{
+align-items: center;
+max-width: 1300px;
+margin-left: auto;
+margin-right: auto;
+
+
+ }
+ 
+ .h1{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+ }
+
+ .p1{
+   text-align: center;
+   font-family: 'Poppins', sans-serif;
+   color: white;
+ }
+
+ input {
+   width: 100%;
+   font-family: "Cardo", serif;
+
+ }
+ .input-text-1{
+   margin-top: 50px;
+   margin-bottom: 50px;
+
+ }
+
+ .password{
+  font-family: "Cardo", serif;
+   color: grey;
+ }
+ .p-label{
+   font-family: 'Poppins', sans-serif;
+   color: grey;
+ }
+
+
+ .prof-name{
+  font-family: "Cardo", serif;
+   color: grey;
+ }
+.email{ font-family: "Cardo", serif;
+   color: grey;
+}
+ .input-text-3{
+   margin-top: 50px;
+   margin-bottom: 50px;
+
+ }
+ .a-text{
+   font-family: 'Poppins', sans-serif;
+   color: white;
+ }
+ .a-p-text{
+   font-family: 'Poppins', sans-serif;
+ }
+ input[type=password] {
+  width: 100%;
+  padding: 15px 30px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid white;
+  border-radius: 0px;
+}
+ input[type=text] {
+   width: 100%;
+   padding: 15px 30px;
+   margin: 8px 0;
+   box-sizing: border-box;
+   border: 2px solid white;
+   border-radius: 0px;
+ }
+ .button-1 {
+  border-radius: 0px;
+  width: 377px;
+  height: 43px;
+  border: none;
+  font-family: "Cardo", serif;
+  background-color: #1b3764;
+  margin-left: 244px;
+  margin-top: 23px;
+  font-size: 19px;
+  color: white;
+}
+.button-2{
+ border-radius: 50px;
+ border: 1px solid grey;
+ background-color: white;
+ height: 45px;
+ width: 160px;
+
+}
+
+
+ .p-facebook{
+  display: inline-block;
+  font-family: 'Poppins', sans-serif;
+  margin-left: 10px;
+  margin-top: -10px;
+ }
+ .facebook{
+   width: 20px;
+   margin-top: 10px;
+   margin-right: 10px;
+ }
+ .end{
+   margin-top: 70px;
+   font-family: 'Poppins', sans-serif;
+   color: grey;  
+
+   
+ }
+ .button-3{
+  border-radius: 50px;
+ border: 1px solid grey;
+ background-color: white;
+ height: 45px;
+ width: 160px;
+ }
+ .google{
+  width: 20px;
+   margin-top: 10px;
+   margin-right: 10px;
+ }
+ .p-google{
+  display: inline-block;
+  font-family: 'Poppins', sans-serif;
+  margin-left: 10px;
+  margin-top: -10px;
+ }
+ .button-4{
+  border-radius: 50px;
+  border: 1px solid grey;
+  background-color: white;
+  height: 45px;
+  width: 160px;
+ }
+ .p-apple{
+  display: inline-block;
+  font-family: 'Poppins', sans-serif;
+  margin-left: 10px;
+  
+ 
+ }
+  
+ @media screen and (max-width:400px) {
+  
+  .container{
+    background-color:  #ffca42;
+  width: 80px;
+    width: 100%;
+    margin-top: 0;
+    
+    
+  
+
+  }
+  .h1 {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    color: white;
+    margin-left: -502px;
+    font-size: 25px;
+}
+.p1{
+  margin-right: 497px;
+}
+
+.p-label{
+  color: white;
+}
+  .password{
+    color: white;
+  }
+  .email{
+    color: white;
+  }
+  .prof-name{
+    color: white;
+  }
+  .container-wrapper{
+
+    width: 300px;
+    overflow: hidden;
+  }
+  
+  .end{
+    margin-left: 60px;
+    .p{
+      margin-left: 15px;
+    }
+   
+  } 
+  .button-1 {
+    border-radius: -1px;
+    width: 300px;
+    height: 50px;
+    color: white;
+    border: none;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    margin-left: 1px;
+    background-color: #1B3764;
+}
+  
+
+ }
+
